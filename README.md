@@ -1,5 +1,5 @@
 # Monokai-Dark.tmTheme
-Changed Monokai.tmTheme to black
+Changed background color of Monokai.tmTheme to black
 
 <dict>
     <key>name</key>
