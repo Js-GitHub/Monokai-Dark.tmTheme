@@ -15,7 +15,7 @@ Changed background color of Monokai.tmTheme to black
                 <string>#000000</string>
 ```
 
-![alt text](Monokia-Background.png "Monokai default")
+![alt text](Monokia.png "Monokai default")
 
 ![alt text](Monokia-Dark.png "Monokai dark")
 
