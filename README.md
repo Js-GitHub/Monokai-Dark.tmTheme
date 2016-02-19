@@ -1,6 +1,6 @@
 # Monokai-Dark.tmTheme
 
-Changed background color of Monokai.tmTheme to black
+##Changed background color of Monokai.tmTheme to black
 
 ``` json
 <dict>
@@ -15,7 +15,11 @@ Changed background color of Monokai.tmTheme to black
                 <string>#000000</string>
 ```
 
+###Background is faded black
+
 ![alt text](Monokia.png "Monokai default")
+
+###Background is black
 
 ![alt text](Monokia-Dark.png "Monokai dark")
 
