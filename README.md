@@ -17,6 +17,9 @@
 
 ###Background is faded black
 
+Faded black #272822
+Dark  black #000000
+
 ![alt text](Monokia.png "Monokai default")
 
 ###Background is black
